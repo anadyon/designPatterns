@@ -10,7 +10,7 @@ class Books
 
     /** @var  string */
     private $titles = [];
-    
+
     /**
      * @return string
      */
