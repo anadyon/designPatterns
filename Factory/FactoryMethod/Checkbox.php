@@ -3,7 +3,7 @@
 /**
  * Class Checkbox
  */
-class Checkbox
+class Checkbox extends FactoryAbstract
 {
     /** @var string */
     const CHECKBOX = 'Checkbox';
