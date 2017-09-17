@@ -15,6 +15,7 @@ class Archive
             ->createBooks()
             ->setAuthor()
             ->setTitles()
-            ->getBooks();
+            ->getBooks()
+            ->getAllBooks();
     }
 }
